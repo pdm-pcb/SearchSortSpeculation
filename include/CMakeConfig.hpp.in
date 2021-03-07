@@ -1,0 +1,7 @@
+#ifndef _CMAKECONFIG_HPP
+#define _CMAKECONFIG_HPP
+
+#define VERSION_MAJOR @SearchSortSpeculation_VERSION_MAJOR@
+#define VERSION_MINOR @SearchSortSpeculation_VERSION_MINOR@
+
+#endif //_CMAKECONFIG_HPP

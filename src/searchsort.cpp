@@ -4,11 +4,10 @@
 #include <string>
 #include <limits>
 
-#include "CMakeConfig.hpp"
 #include "Timer.hpp"
 #include "DivideAndConquer.hpp"
 
-#define ELEMENT_COUNT 100'000
+#define ELEMENT_COUNT 100000
 
 Timer timer;
 
